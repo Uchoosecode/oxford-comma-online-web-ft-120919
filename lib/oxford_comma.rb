@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  if array == string 
+  if array == "" 
     return array[0]
 end
 end
